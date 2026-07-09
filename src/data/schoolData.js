@@ -30,9 +30,9 @@ export const navLinks = [
 
 export const heroSlides = [
   {
-    image: "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?auto=format&fit=crop&w=1920&q=80",
-    title: "Empowering Minds, Inspiring Excellence",
-    subtitle: "Welcome to Habibi Inter College. We combine state-of-the-art infrastructure with world-class teaching to shape the leaders of tomorrow.",
+    image: "/gallery-3.png",
+    title: "Welcome to Habibi Public Inter College",
+    subtitle: "Admissions are now open. Join the Habibi Public Inter College family and give your child the foundation for lifelong success.",
     ctaPrimary: "Apply for Admission",
     ctaPrimaryHref: "#admissions",
     ctaSecondary: "Virtual Campus Tour",
