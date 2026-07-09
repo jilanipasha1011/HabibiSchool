@@ -112,7 +112,7 @@ const Messages = () => {
               {/* Message content */}
               <div className="flex-1 flex flex-col justify-between h-full">
                 <div className="space-y-4">
-                  <span className="text-slate-400 font-bold block text-sm">"Greetings from the Principal's Desk,"</span>
+                  <span className="text-slate-400 font-bold block text-sm">"Greetings from the {principal.role}'s Desk,"</span>
                   <p className="text-slate-600 text-sm leading-relaxed italic">
                     Academic success is not just about scoring marks, but developing a habit of disciplined curiosity and problem-solving. We strive to provide our students with a rigorous, high-quality, and modern learning ecosystem. 
                   </p>

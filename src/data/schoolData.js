@@ -212,11 +212,11 @@ export const facultyList = [
     bio: "With over 30 years in global educational development, Maskoor Sir established the college with a vision to build world-class leaders."
   },
   {
-    name: "Prof. Tasnim Fatima",
-    role: "Principal & Academic Director",
+    name: "Mahmood Sir",
+    role: "Deputy Principal",
     qualification: "M.Sc. Physics, M.Ed. (Lucknow University)",
-    image: "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=400&q=80",
-    bio: "Prof. Tasnim drives the academic rigor and curriculum innovation, ensuring all students reach their fullest academic potentials."
+    image: "/deputy-principal.jpg",
+    bio: "Mahmood Sir drives the academic rigor and curriculum innovation, ensuring all students reach their fullest academic potentials."
   },
   {
     name: "Mr. Rajeev Verma",
